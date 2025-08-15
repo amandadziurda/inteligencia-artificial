@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Resolver problemas técnicos e trabalhar com lógica e sistemas",
-                afirmacao: "Você tem um perfil voltado para áreas como engenharia, tecnologia da informação, matemática ou ciência de dados. Gosta de raciocínio lógico, resolver problemas e trabalhar com sistemas e estruturas. Provavelmente se dá bem em ambientes mais estruturados e com foco em resultados."
+                afirmacao: "Você tem um perfil voltado para áreas como engenharia, tecnologia da informação, matemática ou ciência de dados. Gosta de raciocínio lógico, resolver problemas e trabalhar com sistemas e estruturas. Consequentemente se dá bem em ambientes mais estruturados e com foco em resultados."
             },
             {
                 texto:  "Ajudar pessoas diretamente e lidar com emoções no dia a dia",
