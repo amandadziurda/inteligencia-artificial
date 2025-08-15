@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "O que você acredita ser a principal causa do aquecimento global?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
+                texto: "Resposta 1: Emissões de gases de efeito estufa provenientes de atividades humanas, como queima de combustíveis fósseis, desmatamento e industrialização.",
                 afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
             },
             {
