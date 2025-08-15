@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "O que você acredita ser a principal causa do aquecimento global?",
         alternativas: [
             {
-                texto: "Resposta 1: Emissões de gases de efeito estufa provenientes de atividades humanas, como queima de combustíveis fósseis, desmatamento e industrialização.",
+                texto: "Emissões de gases de efeito estufa provenientes de atividades humanas, como queima de combustíveis fósseis, desmatamento e industrialização.",
                 afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
             },
             {
