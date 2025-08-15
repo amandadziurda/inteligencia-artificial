@@ -25,11 +25,11 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "Sair para uma trilha ou atividade ao ar livre, como andar de bicicleta ou explorar novos lugares.",
-                    afirmacao: "Você tem um perfil aventureiro e ativo. Gosta de estar em movimento, explorando o mundo e buscando experiências novas. Provavelmente valoriza liberdade, natureza e desafios físicos."
+                    afirmacao: "Você certamente é aventureiro e ativo. Gosta de estar em movimento, explorando o mundo e buscando experiências novas. Valorizando a liberdade, natureza e desafios físicos."
                 },
                 {
                     texto:  "Ficar em casa lendo um livro, assistindo filmes ou jogando videogame.",
-                    afirmacao: "Você tem um perfil introspectivo e criativo. Prefere ambientes tranquilos e atividades que estimulam a mente. Gosta de mergulhar em histórias, ideias e experiências mais calmas, mas profundas."
+                    afirmacao: "Você certamente introspectivo e criativo. Prefere ambientes tranquilos e atividades que estimulam a mente. Gosta de mergulhar em histórias, ideias e experiências mais calmas, mas profundas."
                 }    
                
             ]
