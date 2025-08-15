@@ -6,46 +6,45 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O que você acredita ser a principal causa do aquecimento global?",
+        enunciado: "Sobre as suas preferências profissionais, o que você prefere?",
         alternativas: [
             {
-                texto: "Emissões de gases de efeito estufa provenientes de atividades humanas, como queima de combustíveis fósseis, desmatamento e industrialização.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Resolver problemas técnicos e trabalhar com lógica e sistemas",
+                afirmacao: "Você tem um perfil voltado para áreas como engenharia, tecnologia da informação, matemática ou ciência de dados. Gosta de raciocínio lógico, resolver problemas e trabalhar com sistemas e estruturas. Provavelmente se dá bem em ambientes mais estruturados e com foco em resultados."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "Ajudar pessoas diretamente e lidar com emoções no dia a dia",
+                afirmacao: "Você tem um perfil voltado para profissões que envolvem empatia, comunicação e ajuda ao próximo. Prefere lidar com pessoas, entender sentimentos e contribuir diretamente para o bem-estar de outros."
             }    
            
         ]
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "Quando você tem um tempo livre no fim de semana, o que prefere fazer?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Sair para uma trilha ou atividade ao ar livre, como andar de bicicleta ou explorar novos lugares.",
+                    afirmacao: "Você tem um perfil aventureiro e ativo. Gosta de estar em movimento, explorando o mundo e buscando experiências novas. Provavelmente valoriza liberdade, natureza e desafios físicos."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Ficar em casa lendo um livro, assistindo filmes ou jogando videogame.",
+                    afirmacao: "Você tem um perfil introspectivo e criativo. Prefere ambientes tranquilos e atividades que estimulam a mente. Gosta de mergulhar em histórias, ideias e experiências mais calmas, mas profundas."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Qual dos seguintes objetivos mais se alinha com você neste momento da sua vida?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Crescer profissionalmente, conquistar estabilidade financeira e alcançar uma posição de liderança.",
+                    afirmacao: "Você está focado(a) em crescimento, realizações e sucesso material. Provavelmente é alguém que valoriza metas claras, desafios e está disposto(a) a se esforçar bastante para conquistar reconhecimento e segurança no trabalho. Seu perfil combina com liderança, empreendedorismo ou planos de carreira bem definidos."
                 },
-                {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
-               
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+               {
+                    texto: "Encontrar equilíbrio pessoal, ter mais tempo livre e viver com mais propósito e bem-estar.",
+                    afirmacao: "Você busca qualidade de vida e valoriza experiências significativas mais do que conquistas materiais. Seu foco está em equilíbrio, saúde mental e viver de acordo com seus valores. Esse perfil se alinha com profissões ou estilos de vida mais flexíveis, criativos ou voltados ao autoconhecimento e impacto pessoal."
                 }    
                
             ]
