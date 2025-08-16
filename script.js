@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Sobre as suas preferências profissionais, o que você prefere?",
+        enunciado: "Sobre as suas aptidões profissionais, o que você prefere?",
         alternativas: [
             {
                 texto: "Resolver problemas técnicos e trabalhar com lógica e sistemas",
@@ -21,7 +21,7 @@ const perguntas = [
     },
     {
        
-            enunciado: "Quando você tem um tempo livre no fim de semana, o que prefere fazer?",
+            enunciado: "Quando você tem um tempo livre no fim de semana, o que gosta de fazer?",
             alternativas: [
                 {
                     texto: "Sair para uma trilha ou atividade ao ar livre, como andar de bicicleta ou explorar novos lugares.",
