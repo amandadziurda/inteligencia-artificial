@@ -10,9 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Sim, com certeza",
+                    afirmacao: " "
             },
             {
                 texto:  "Não, ainda tenho algumas dúvidas",
+                    afirmacao: " "
                             }    
            
         ]
