@@ -5,6 +5,22 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
+        {
+        enunciado: "Você já sabe quais são as perguntas que te ajudarão a se descobrir?",
+        alternativas: [
+            {
+                texto: "Sim, com certeza",
+            },
+            {
+                texto:  "Não, ainda tenho algumas dúvidas",
+                            }    
+           
+        ]
+    },
+
+
+
+    
     {
         enunciado: "Sobre as suas aptidões profissionais, o que você prefere?",
         alternativas: [
