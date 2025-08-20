@@ -99,7 +99,7 @@ function respostaSelecionada(opcaoSelecionada) {
     mostraPergunta();
 }
 function mostraResultado(){
-    caixaPerguntas.textContent = "Olha só o que podemos afirmar sobre você...";
+    caixaPerguntas.textContent = "Isso é o que descobrimos sobre você...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
